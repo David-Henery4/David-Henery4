@@ -9,8 +9,8 @@ Hi, my name is David a aspiring web developer from the UK. I have a passion for 
 In my down time you'll find me chilling watching football, listening to music or cooking and eating spicy foods :hot_pepper:
 
 - 🌱 I’m currently learning React and hope to start building my own projects with it soon!
-- 🔭 I’m currently working on trying to teach my spanish in my spare time :🇪🇸:
-- 📫 If your interested in working together, get in touch here! [![Mail Badge](https://img.shields.io/badge/-David-17243B?style=flat&labelColor=&logo=gmail&logoColor=6EDAF1)](mailto:davidhenerydev4@gmail.com)
+- 🔭 I’m currently working on trying to teach my spanish in my spare time.
+- 📫 If your interested in working together, get in touch here!
   [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](#)
 
 If your interested in checking out my porfolio just click here [link]
@@ -28,14 +28,14 @@ If your interested in checking out my porfolio just click here [link]
 <br>
 
 #### **myTeam - Football Dashboard** 
-<img src="images/myTeam Football Dashboard.gif" alt="Football-Dashboard-Image" width="200px">
+<img src="images/myTeam Football Dashboard.gif" alt="Football-Dashboard-Image" width="400px">
 
 * Live Site: [myTeam](https://myteam-football-dashboard.netlify.app/)
 * gitHub: [Repo](https://github.com/DizzlyD/myTeam-Football-Dashboard)
 
 
 ### **myWeather - Weather app**
-<img src="images/weather-readme.gif" alt="Football-Dashboard-Image" width="200px">
+<img src="images/weather-readme.gif" alt="Football-Dashboard-Image" width="400px">
 
 * Live Site: [myWeather](https://extremo-weather-finder.netlify.app/)
 * gitHub: [Repo](https://github.com/DizzlyD/myWeatherApp)
