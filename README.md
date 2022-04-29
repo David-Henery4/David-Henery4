@@ -2,9 +2,7 @@
 
 # Hello There <img src="images/hi.gif" alt="drawing" width="24"/>
 
-## **A little bit about myself**
-
-Hi, my name is David a aspiring web developer from the UK. I have a passion for learning new technologies and designing and building things with those technologies. I have a sharp eye for detail and always try and push myself that little bit further.
+My name is David, a aspiring web developer from the UK. I have a passion for learning new technologies and designing and building things with those technologies. I have a sharp eye for detail and always try and push myself that little bit further.
 
 In my down time you'll find me chilling watching football, listening to music or cooking and eating spicy foods :hot_pepper:
 
@@ -13,7 +11,7 @@ In my down time you'll find me chilling watching football, listening to music or
 - 📫 If your interested in working together, get in touch here!
   [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](#)
 
-If your interested in checking out my porfolio just click here [link]
+If your interested in checking out my porfolio just click here: https://www.djhwebdevelopment.com
 
 ### **Top technologies i use**
 
