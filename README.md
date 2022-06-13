@@ -40,7 +40,7 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 
 <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DizzlyD&show_icons=true&bg_color=17243B&text_color=DFE5EC&icon_color=6EDAF1&title_color=6EDAF1&hide=contribs,prs)](https://github.com/DizzlyD/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Henery4&show_icons=true&bg_color=17243B&text_color=DFE5EC&icon_color=6EDAF1&title_color=6EDAF1&hide=contribs,prs)](https://github.com/David-Henery4/github-readme-stats)
 
 <!--
 **DizzlyD/DizzlyD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
