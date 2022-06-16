@@ -9,7 +9,7 @@ In my down time you'll find me chilling watching football, listening to music or
 - 🌱 I’m currently learning React and hope to start building my own projects with it soon!
 - 🔭 I’m currently working on trying to teach my spanish in my spare time.
 - 📫 If your interested in working together, get in touch here!
-  [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](#)
+  [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henery-725458241/)
 
 If your interested in checking out my porfolio just click here: https://www.djhwebdevelopment.com
 
