@@ -6,7 +6,7 @@ My name is David, a aspiring web developer from the UK. I have a passion for lea
 
 In my down time you'll find me chilling watching football, listening to music or cooking and eating spicy foods :hot_pepper:
 
-- 🌱 I hope to start learning about and using more technologies like wordpress and php in the future!
+- 🌱 I hope to start learning and using more technologies like wordpress and php in the future!
 - 🔭 I’m currently working on improving my react skills by building a lot off different projects with it.
 - 📫 If your interested in working together, get in touch here!
   [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henery-725458241)
