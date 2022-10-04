@@ -26,11 +26,11 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 
 <br>
 
-### **myTeam - Football Dashboard** 
-<img src="images/myTeam Football Dashboard.gif" alt="Football-Dashboard-Image" width="400px">
+### **Audiophile E-Commerce** 
+<img src="images/desktop-audiophile.png" alt="Football-Dashboard-Image" width="400px">
 
-* Live Site: [myTeam](https://myteam-football-dashboard.netlify.app/)
-* gitHub: [Repo](https://github.com/David-Henery4/myTeam-Football-Dashboard)
+* Live Site: [Audiophile E-Commerce](https://audiophile-ecommerce-store.netlify.app/)
+* gitHub: [Repo](https://github.com/David-Henery4/Audiophile-Ecommerce-site)
 
 
 ### **Schedule TrackR - Schedule tracking app**
