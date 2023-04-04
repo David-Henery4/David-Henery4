@@ -32,12 +32,29 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 * Live Site: [Audiophile E-Commerce](https://audiophile-ecommerce-store.netlify.app/)
 * gitHub: [Repo](https://github.com/David-Henery4/Audiophile-Ecommerce-site)
 
+<br>
 
-### **Schedule TrackR - Schedule tracking app**
-<img src="images/schedule-trackr-desk.png" alt="schedule-trackr-Image" width="400px">
+### **QK Invoices - Full-stack invoice creation app**
+<img src="images/invoices-desktop-screenshot.png" alt="Desktop screenshot of QK Invoices app" width="400px">
 
-* Live Site: [Schedule TrackR](https://schedule-trackr.netlify.app)
-* gitHub: [Repo](https://github.com/David-Henery4/Schedule-TrackR)
+* Live Site: [QK Invoices](https://qk-invoices.netlify.app/login)
+* gitHub: [Repo](https://github.com/David-Henery4/Invoice-app-Frontend)
+
+<br>
+
+### **Designo - Multi-Page Site**
+<img src="images/designo-desktop-screenshot.png" alt="Desktop screenshot of Designo home page landing" width="400px">
+
+* Live Site: [Designo](https://designo-customs.netlify.app)
+* gitHub: [Repo](https://github.com/David-Henery4/Designo-Website)
+
+<br>
+
+### **Where in the world? - Country Information app**
+<img src="images/countries-main-menu-desk.png" alt="Desktop screenshot of Where in the world? App main menu" width="400px">
+
+* Live Site: [Where in the world?](https://where-abouts-in-the-world.netlify.app)
+* gitHub: [Repo](https://github.com/David-Henery4/Where-in-the-world)
 
 <br>
 
