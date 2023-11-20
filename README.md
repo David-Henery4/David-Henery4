@@ -23,6 +23,14 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 [![Html Badge](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&labelColor=black&logoColor=E44D26)](#)
 [![Css Badge](https://img.shields.io/badge/CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)
 [![React Badge](https://img.shields.io/badge/REACT-00D8FF?&style=for-the-badge&labelColor=black&logo=react&logoColor=00D8FF)](#)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
+[![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?&style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
+
+
+
+
 
 
 ## Check out a couple of my projects
