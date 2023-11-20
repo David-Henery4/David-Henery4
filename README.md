@@ -6,8 +6,8 @@ My name is David, a aspiring web developer from the UK. I have a passion for lea
 
 In my down time you'll find me chilling watching football, listening to music or cooking and eating spicy foods :hot_pepper:
 
-- 🌱 I hope to start learning and using more technologies like wordpress and php in the future!
-- 🔭 I’m currently working on improving my react skills by building a lot off different projects with it.
+- 🌱 I hope to start learning and using more technologies like Typescript, php, laravel and wordpress. I also plan to start building more fullstack projects in the future and learning the different tech that is needed like working with databases like MongoDB and mySQL.
+- 🔭 I’m currently working on honing and improving the technologies I already know such as React, NextJs and etc by building lots of projects with them.
 - 📫 If your interested in working together, get in touch here!
 
   [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henery-725458241)
@@ -27,7 +27,6 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?&style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-
 
 
 
