@@ -36,11 +36,31 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 
 <br>
 
+### **Produck-Feedback - A Product Feedback application** 
+<img src="images/product-feedback-desktop.png" alt="produck-feedback-Dashboard-Image" width="400px">
+
+* Live Site: [Produck-Feedback](https://produck-feedback-app.vercel.app)
+* GitHub: [Repo](https://github.com/David-Henery4/Produck-Feedback-App)
+
+<br>
+
+<br>
+
+### **Elite Aquatics - Website for a local Aquatics company** 
+<img src="images/elite-aquatics-desktop.png" alt="Elite Aquatics Landing page" width="400px">
+
+* Live Site: [eliteaquaticsuk.uk](https://eliteaquaticsuk.uk/)
+
+
+<br>
+
+<br>
+
 ### **Audiophile E-Commerce** 
-<img src="images/desktop-audiophile.png" alt="Football-Dashboard-Image" width="400px">
+<img src="images/desktop-audiophile.png" alt="Audiophile Landing" width="400px">
 
 * Live Site: [Audiophile E-Commerce](https://audiophile-ecommerce-store.netlify.app/)
-* gitHub: [Repo](https://github.com/David-Henery4/Audiophile-Ecommerce-site)
+* GitHub: [Repo](https://github.com/David-Henery4/Audiophile-Ecommerce-site)
 
 <br>
 
@@ -48,7 +68,7 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 <img src="images/invoices-desktop-screenshot.png" alt="Desktop screenshot of QK Invoices app" width="400px">
 
 * Live Site: [QK Invoices](https://qk-invoices.netlify.app/login)
-* gitHub: [Repo](https://github.com/David-Henery4/Invoice-app-Frontend)
+* GitHub: [Repo](https://github.com/David-Henery4/Invoice-app-Frontend)
 
 <br>
 
@@ -56,7 +76,17 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 <img src="images/designo-desktop-screenshot.png" alt="Desktop screenshot of Designo home page landing" width="400px">
 
 * Live Site: [Designo](https://designo-customs.netlify.app)
-* gitHub: [Repo](https://github.com/David-Henery4/Designo-Website)
+* GitHub: [Repo](https://github.com/David-Henery4/Designo-Website)
+
+<br>
+
+<br>
+
+### **Dev-Jobs - Dev Bobs Search Board**
+<img src="images/dev-jobs-desktop.png" alt="Desktop screenshot of Dev Jobs, Job Board" width="400px">
+
+* Live Site: [Dev-Jobs](https://dev-jobs-4u.netlify.app)
+* GitHub: [Repo](https://github.com/David-Henery4/dev-jobs)
 
 <br>
 
@@ -64,7 +94,7 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 <img src="images/countries-main-menu-desk.png" alt="Desktop screenshot of Where in the world? App main menu" width="400px">
 
 * Live Site: [Where in the world?](https://where-abouts-in-the-world.netlify.app)
-* gitHub: [Repo](https://github.com/David-Henery4/Where-in-the-world)
+* GitHub: [Repo](https://github.com/David-Henery4/Where-in-the-world)
 
 <br>
 
