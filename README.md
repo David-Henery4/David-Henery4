@@ -15,7 +15,7 @@ In my down time you'll find me chilling watching football, listening to music or
 
 If your interested in checking out my porfolio just click here: https://www.djhwebdevelopment.com
 
-### **Top technologies i use**
+### **Top technologies I use**
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](#)
@@ -23,6 +23,7 @@ If your interested in checking out my porfolio just click here: https://www.djhw
 [![Html Badge](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&labelColor=black&logoColor=E44D26)](#)
 [![Css Badge](https://img.shields.io/badge/CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)
 [![React Badge](https://img.shields.io/badge/REACT-00D8FF?&style=for-the-badge&labelColor=black&logo=react&logoColor=00D8FF)](#)
+
 
 ## Check out a couple of my projects
 
