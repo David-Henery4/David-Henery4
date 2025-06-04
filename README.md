@@ -2,101 +2,85 @@
 
 # Hello There <img src="images/hi.gif" alt="drawing" width="24"/>
 
-My name is David, a aspiring web developer from the UK. I have a passion for learning new technologies and designing and building things with those technologies. I have a sharp eye for detail and always try and push myself that little bit further.
+ Hi, I'm David – a Full-Stack Developer from the UK
 
-In my down time you'll find me chilling watching football, listening to music or cooking and eating spicy foods :hot_pepper:
+I'm passionate about designing and building modern web applications that are fast, accessible, and user-focused. I love learning new technologies and pushing myself to create cleaner, smarter, and more effective solutions with each project. I have a sharp eye for detail and enjoy refining both frontend and backend codebases to meet high standards.
 
-- 🌱 I hope to start learning and using more technologies like Typescript, php, laravel and wordpress. I also plan to start building more fullstack projects in the future and learning the different tech that is needed like working with databases like MongoDB and mySQL.
-- 🔭 I’m currently working on honing and improving the technologies I already know such as React, NextJs and etc by building lots of projects with them.
-- 📫 If your interested in working together, get in touch here!
+When I’m not coding, you’ll probably find me watching football, vibing to music, or cooking something spicy 🌶️.
 
-  [![Git Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henery-725458241)
+## 🚀 What I'm Working On
 
+- 🔧 Honing my skills with **React**, **Next.js**, and **TailwindCSS** by building real-world projects.
+- 🌱 Learning and integrating new technologies like **TypeScript**, **PHP**, **Laravel**, and **WordPress**.
+- 🧠 Exploring backend development more deeply — working with **MongoDB**, **MySQL**, and full-stack app architecture.
 
-If your interested in checking out my porfolio just click here: https://www.djhwebdevelopment.com
+## 🤝 Let’s Connect
+
+I’m always open to collaborating on interesting projects or just chatting about tech.
+
+- 🖥️ Check out my [Portfolio](https://www.djhwebdevelopment.com/)  
+- 💻 Explore my [GitHub Projects](https://github.com/David-Henery4?tab=repositories)  
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/david-henery-725458241/)
+
+let’s build something great together!
+
+<br>
 
 ### **Top technologies I use**
 
+
+
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
+[![NodeJS Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](#)
+[![mySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![postgresql Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Supabase Badge](https://img.shields.io/badge/Supabase-FF5733?style=for-the-badge&logo=supabase&logoColor=white)](#)
+[![AstroJS Badge](https://img.shields.io/badge/Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=ff5d0100&labelColor=191919)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-DE4C36?style=for-the-badge&labelColor=black&logo=git&logoColor=DE4C36)](#)
 [![Html Badge](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&labelColor=black&logoColor=E44D26)](#)
 [![Css Badge](https://img.shields.io/badge/CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)
 [![React Badge](https://img.shields.io/badge/REACT-00D8FF?&style=for-the-badge&labelColor=black&logo=react&logoColor=00D8FF)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?&style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-
-
-
 
 
 ## Check out a couple of my projects
 
 <br>
 
-### **Produck-Feedback - A Product Feedback application** 
-<img src="images/product-feedback-desktop.png" alt="produck-feedback-Dashboard-Image" width="400px">
+### **Metis Rail Website** 
+<img src="images/metis-rail-screenshot-resized.png" alt="Metis Rail website header" width="400px">
 
-* Live Site: [Produck-Feedback](https://produck-feedback-app.vercel.app)
-* GitHub: [Repo](https://github.com/David-Henery4/Produck-Feedback-App)
-
-<br>
-
-<br>
-
-### **Elite Aquatics - Website for a local Aquatics company** 
-<img src="images/elite-aquatics-desktop.png" alt="Elite Aquatics Landing page" width="400px">
-
-* Live Site: [eliteaquaticsuk.uk](https://eliteaquaticsuk.uk/)
-
+* Live Site: [metis-rail.co.uk](https://www.metis-rail.co.uk/)
 
 <br>
 
 <br>
 
-### **Audiophile E-Commerce** 
-<img src="images/desktop-audiophile.png" alt="Audiophile Landing" width="400px">
+### **DevLinks – Full-Stack Link Sharing Platform for Developers** 
+<img src="images/link-share-app-screenshot-resized.png" alt="DevLinks Home Dashboard" width="400px">
 
-* Live Site: [Audiophile E-Commerce](https://audiophile-ecommerce-store.netlify.app/)
-* GitHub: [Repo](https://github.com/David-Henery4/Audiophile-Ecommerce-site)
-
-<br>
-
-### **QK Invoices - Full-stack invoice creation app**
-<img src="images/invoices-desktop-screenshot.png" alt="Desktop screenshot of QK Invoices app" width="400px">
-
-* Live Site: [QK Invoices](https://qk-invoices.netlify.app/login)
-* GitHub: [Repo](https://github.com/David-Henery4/Invoice-app-Frontend)
-
-<br>
-
-### **Designo - Multi-Page Site**
-<img src="images/designo-desktop-screenshot.png" alt="Desktop screenshot of Designo home page landing" width="400px">
-
-* Live Site: [Designo](https://designo-customs.netlify.app)
-* GitHub: [Repo](https://github.com/David-Henery4/Designo-Website)
+* Live Site: [DevLinks](https://link-share-app-beta.vercel.app/)
+* Repo: [GitHub](https://github.com/David-Henery4/Link-Share-App)
 
 <br>
 
 <br>
 
-### **Dev-Jobs - Dev Bobs Search Board**
-<img src="images/dev-jobs-desktop.png" alt="Desktop screenshot of Dev Jobs, Job Board" width="400px">
+### **Markdown Generator** 
+<img src="images/markdown-editor-screenshot.png" alt="Markdown Generator Dashboard" width="400px">
 
-* Live Site: [Dev-Jobs](https://dev-jobs-4u.netlify.app)
-* GitHub: [Repo](https://github.com/David-Henery4/dev-jobs)
-
-<br>
-
-### **Where in the world? - Country Information app**
-<img src="images/countries-main-menu-desk.png" alt="Desktop screenshot of Where in the world? App main menu" width="400px">
-
-* Live Site: [Where in the world?](https://where-abouts-in-the-world.netlify.app)
-* GitHub: [Repo](https://github.com/David-Henery4/Where-in-the-world)
+* Live Site: [Markdown Generator](https://markdown-editor-md.vercel.app/)
+* GitHub: [Repo](https://github.com/David-Henery4/Markdown-Editor)
 
 <br>
+
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Henery4&show_icons=true&bg_color=17243B&text_color=DFE5EC&icon_color=6EDAF1&title_color=6EDAF1&hide=contribs,prs)](https://github.com/David-Henery4/github-readme-stats)
 
